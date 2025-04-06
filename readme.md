@@ -13,6 +13,20 @@
 - REST API: URL’larda xavfsiz ID sifatida
 - Offline dasturlar: Internet bo‘lmasa ham ID generatsiya qilish uchun
 
+## O'rnatish :
+- npm install uuid
+
+## Foydalanish :
+```
+import { v4 } from 'uuid';
+
+let id = v4()
+
+console.log(id)
+
+//codni 1-martta ishlatganimda shunday id yaratdi : 4a44c1af-14eb-4a03-98da-047ba082f6df
+// 2- martta ishlatganimda esa :                    abef39b1-833a-4b2f-ac0b-138cf220509e
+```
 
 
 
