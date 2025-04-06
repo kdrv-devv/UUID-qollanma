@@ -29,4 +29,25 @@ console.log(id)
 ```
 
 
+## REACTDA  KICHIK TODO-LIST misolida ko'rib chiqamiz :
 ![UUID](./img//todo.png)
+
+
+```
+[
+    {
+        id:abef39b1-833a-4b2f-ac0b-138cf220509e,
+        name:"Sarvarbek",
+        surname:"Qodirov"
+    },
+    {
+        id:4a44c1af-14eb-4a03-98da-047ba082f6df,
+        name:"John",
+        surname:"Doe"
+    }
+
+]
+
+// id shu ko'rinishda saqlanmoqda 
+
+```
