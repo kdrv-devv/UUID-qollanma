@@ -1,4 +1,4 @@
-#  UUID - unical(takrorlanmas) "ID" lar yaratish uchun library
+#  UUID - takrorlanmas(unique) "ID" lar yaratish uchun kutubxona(library)
 
 ![UUID](https://www.dolthub.com/blog/static/130353ae0c15b5329861e9c808bb8a00/b6897/auto_increment-vs-uuid-featured.png)
 
