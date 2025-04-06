@@ -20,7 +20,7 @@
 ```
 import { v4 } from 'uuid';
 
-let id = v4()
+let id = v4()        // v4() - funksiyasi har safar chaqirilganidan bizga yangi unical bo'lgan id qaytaradi.
 
 console.log(id)
 
@@ -29,4 +29,4 @@ console.log(id)
 ```
 
 
-
+![UUID](./img//todo.png)
